@@ -12,10 +12,6 @@ My name is Yiyun Zhang. I'm a third-year undergraduate student at the University
 - LinkedIn: [Yiyun Zhang](https://www.linkedin.com/in/zhangyiyun-/)
 - Email: zhangyiyun178@gmail.com
 
-## 😄 Fun Fact
-
-I love exploring new hiking trails around Toronto and documenting them through photography!
-
 ## 💬 Ask Me About
 
 - Frontend Development
