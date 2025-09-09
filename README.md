@@ -1,11 +1,6 @@
 ## Hello 🍀
 
-My name is Yiyun Zhang. I'm a third-year undergraduate student at the University of Toronto, majoring in Computer Science and Statistics. Welcome to my GitHub profile!
-
-## 🌱 I'm Currently Learning
-
-- Fine-tune of a pretrained model
-- Quantum Computing fundamentals
+My name is Yiyun (Yvonne) Zhang. I'm a fourth-year undergraduate student at the University of Toronto, majoring in Computer Science and Statistics. Welcome to my GitHub profile!
 
 ## 📫 How to Reach Me
 
@@ -14,8 +9,8 @@ My name is Yiyun Zhang. I'm a third-year undergraduate student at the University
 
 ## 💬 Ask Me About
 
-- Frontend Development
-- Statistical Analysis in Python
+- Software Development
+- Statistical Analysis
 
 <!--
 **Yiyun95788/Yiyun95788** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
