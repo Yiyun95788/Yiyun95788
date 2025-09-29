@@ -1,6 +1,6 @@
 ## Hello 🍀
 
-My name is Yiyun (Yvonne) Zhang. I'm a fourth-year undergraduate student at the University of Toronto, majoring in Computer Science and Statistics. Welcome to my GitHub profile!
+My name is Yiyun Zhang. Feel free to call me Yvonne! I'm a fourth-year undergraduate student at the University of Toronto, majoring in Computer Science and Statistics. Welcome to my GitHub profile!
 
 ## 📫 How to Reach Me
 
